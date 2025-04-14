@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <random>
 #include <windows.h>
 #include <conio.h>
 #include <string>
@@ -646,7 +647,8 @@ int main()
             setCursorPosition(koord.x_notification, koord.y_notification);
             cout << "                                                                    ";
         }
-        //Sleep(100);
+        Sleep(100);
+
     }
     return 0;
 }
