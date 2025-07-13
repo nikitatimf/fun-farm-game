@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\курсач\курсач\x64\Debug\курсач.vcxproj.MdMergeInputs.cache
+C:\Users\Admin\source\repos\курсач\курсач\x64\Debug\курсач.vcxproj.cppwinrt_plat.cache
+C:\Users\Admin\source\repos\курсач\курсач\x64\Debug\курсач.vcxproj.cppwinrt_comp.cache
